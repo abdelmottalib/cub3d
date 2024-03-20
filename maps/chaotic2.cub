@@ -1,0 +1,11 @@
+
+NO ./assets/BOOKS.xpm
+SO ./assets/WALL.xpm
+
+F 75,186,0
+WE ./assets/WALL.xpm
+EA ./assets/WALL.xpm
+C 77,159,240
+
+ 1
+
