@@ -25,6 +25,7 @@ To run Cub3D, follow these steps:
 2. Navigate to the project directory.
 3. Run `make` command to compile the project.
 4. Execute the program by running `./cub3D path_to_map_file.cub`.
+5. The maps are available in the maps folder
 
 ## Controls:
 - **W**: Move player forward.
